@@ -1,0 +1,12 @@
+cmake-build-debug
+dist
+obj
+.idea
+.vscode
+.project
+.settings
+.DS_Store
+*.diff
+*.patch
+*.log
+*~

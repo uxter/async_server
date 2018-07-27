@@ -1,0 +1,7 @@
+{
+  "port": 8000,
+  "backlog": 1024,
+  "maxEvents": 1048576,
+  "bufferSize": 64,
+  "maxRequestSize": 4096
+}
